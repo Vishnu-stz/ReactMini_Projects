@@ -1,0 +1,107 @@
+
+
+npx create-react-app projectName   --  for installation and creation of projects
+
+npm start   -- to start running react project
+
+npm install react-router-dom   -- for installing the react router
+
+
+For Creating new React Project
+    -   npx create-reaxt-app demo
+
+For Running React Project
+    - npm start
+
+public folder 
+    -   like assetes For Using Media
+
+rfce    -   a shortcut for creating html comp like  ==  ( ! in html ) React Function component export    
+
+
+State : can call it as varibale
+    - is a Object Used to Store datas inside components
+
+        Hooks
+            - useState For Creating a State 
+            - 
+
+Data:sharing 
+    -   parent component to child components    =   using props = properties          
+
+        -   props   -   used to data sharing 
+
+
+destructuring in React
+-----------------------
+
+    -    person = { name : "anu" , age : 21 }
+
+        N = person.name //
+        A = person.age //
+
+        {name , age} = person
+
+            {name} = person     // name = person.name  
+
+
+useEffect
+---------
+
+component lannding status
+
+
+React Router Dom  = package
+--------------
+
+    for installing - npm i react-router-dom
+
+        - BrowserRouter = to suppport routing in app  
+        - Routes        = if we more than one route use ROUTES  
+        - Route         = For Setting a Path in each component
+
+
+Hook
+----
+
+    - useParams()   -   used to access params from URL 
+
+
+Redux
+-------
+
+
+couplings    -    also like parent to child data sharing
+
+props drilling      -   data stuck in any intermediate component during coupling
+
+Redux   -   state management technology   
+
+context -   state management technology
+
+flux    -   state management technology 
+
+
+    Redux Libaraies
+    -------------
+
+        for Creating Redux u need Libaraies     -   redux , react-redux , redux-thunk
+
+
+        Store 
+        -----
+
+        fetch
+        -----
+
+        axios
+        -----
+
+
+    useDispatch    -    hook used by the component to dispatch the logic in action file
+    
+
+
+
+
+

@@ -1,0 +1,21 @@
+MVC FrameWork  -   model view controlers
+-----------------------------------------
+
+
+npm i dotenv    -   for connecting ENV File
+
+environmental variable
+----------------------
+
+    -   variable that contain application configurations that need in the time for Running
+
+    -   handling module    -    process
+
+    -   it will convert static working app into dynamic ( local host running to server running )       
+
+
+multer 
+------
+
+    -   Library used to handle file type datas in server
+    -   For installing multer  - npm i multer
